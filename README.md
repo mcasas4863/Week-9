@@ -4,7 +4,7 @@ looking back, on my workflow was definitely a roller coaster at first. I spent w
 
 Pathways Comparison
 
-Week 9 Progress Post
+Week 9 Progress Postit
 
 My Big Takeaway (Weeks 6-8): I figured out a much better system for organizing my schoolwork so I don't get overwhelmed.
 
@@ -15,4 +15,10 @@ The Human/Tech Connection: Communication is key, Explaining your coding issues c
 My Array & Loop Implementation: 
 * Array Holds all of the available menu options:
 * For ...Next: Iterates through the array to display those options to the user.
-* For Each: Loops through 
+* For Each: Loops through the tracking list to display a history of what was clicked during the session.
+* Do...Loop: Ensures the menu keeps popping back up after a choice is made so the app doesn't just close.
+
+* Pathway A Status: Finished
+* Pathway B Status: All Set
+* Repository Link: github.com
+
